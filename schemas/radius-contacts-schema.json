@@ -1,9 +1,0 @@
-{
-    "types": {
-        "radius_date": { "format": "YYYY-MM-DD HH:MI:SS.S" }
-    },
-
-    "fieldDefinitions": [
-        { "column": 5, "name": "activity_date", "type": "radius_date" }
-    ]
-}

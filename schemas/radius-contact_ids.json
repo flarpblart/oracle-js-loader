@@ -1,0 +1,37 @@
+{
+    "fieldDefinitions": [
+        {
+            "column": 5,
+            "name": "activity_date",
+            "type": "date",
+            "translations": [ "radius_date" ]
+        },
+        {
+            "column": 6,
+            "name": "contacts_id",
+            "type": "text",
+            "translations": [ "remove_alpha" ]
+        },
+        {
+            "column": 7,
+            "name": "banner_id",
+            "type": "text",
+            "translations": [ "remove_alpha" ]
+        },
+        {
+            "column": 8,
+            "name": "email_addresss",
+            "type": "text",
+            "translation": [ "upper_case" ]
+        },
+        {
+            "column": 9,
+            "name": "first_name",
+            "type": "text",
+            "translation": [ "remove_nonalpha", "upper_case" ]
+        },
+        {
+
+        }
+    ]
+}
